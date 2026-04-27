@@ -1,0 +1,4 @@
+# Demo placeholder for PSS/E OUT file
+# Binary parser not active in browser demo.
+CASE: DEMO_N-1
+EVENT: Generator trip at t=1.0s
